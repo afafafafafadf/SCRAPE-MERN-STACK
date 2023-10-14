@@ -1,0 +1,22 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  table,
+  th,
+  td {
+    border: 2px solid black;
+    color: rosybrown;
+    border-collapse: collapse;
+  }
+  
+  button {
+    width: 400px;
+    margin-left: 200px;
+  
+    background-color: rosybrown;
+  }
+  
